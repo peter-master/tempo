@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tempo Game",
+"productVersion": "0.1",
+"dataUrl": "Tempo.data.unityweb",
+"wasmCodeUrl": "Tempo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tempo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
